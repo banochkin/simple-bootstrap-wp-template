@@ -44,7 +44,7 @@ function showpagination() {
 
 // Breadcrumbs
 function showbreadcrumb() {
-  if ( function_exists('yoast_breadcrumb') ) {yoast_breadcrumb('<p id="breadcrumbs">','</p>');}
+  if ( function_exists('yoast_breadcrumb') ) {yoast_breadcrumb('<p id="breadcrumbs" class="small">','</p>');}
 }
 
 ?>
