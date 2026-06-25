@@ -16,3 +16,7 @@
 * Ой столько всего.
 
 Автор: [Руслан Баночкин](https://banochkin.com/)
+
+---
+
+[banochkin.com DAO](https://banochkin.com/) 🏴‍☠️
